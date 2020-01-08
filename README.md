@@ -13,7 +13,9 @@
     Ketik `sudo apt-get install git`
 </details>
 
-## Baru saja 
+## Baru saja
+
+## Cek lagi kuy 
 
 - Hidupkan **komputer** __anda__
 - ~~Login ke OS anda~~
