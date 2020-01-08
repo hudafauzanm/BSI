@@ -86,3 +86,5 @@ public static void jangkrik()
 [mountain]: https://cdn.pixabay.com/photo/2014/10/26/17/19/fishermen-504098__340.jpg  
 
 saya menambah baru
+
+coba squosh
