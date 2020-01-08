@@ -84,3 +84,5 @@ public static void jangkrik()
 [2]: https://facebook.com
 [3]: https://kaskus.com
 [mountain]: https://cdn.pixabay.com/photo/2014/10/26/17/19/fishermen-504098__340.jpg  
+
+saya menambah baru
